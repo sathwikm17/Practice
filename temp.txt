@@ -1,4 +1,2 @@
 This is file that is pushed into main
 Now in branch new data is added
-
-Remote data added.
